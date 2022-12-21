@@ -15,4 +15,4 @@ pt = []
 for i in range(0,p+1): pt.append(comb(p,i))
 
 for i in range(0,p+1):
-    print (pt[i]*(x**i)*(e**(p-i)))
+    print(pt[i]*(x**i)*(e**(p-i)))
